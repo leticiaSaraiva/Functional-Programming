@@ -1,0 +1,1 @@
+noIntervalo a b xs = [y | y <- xs, y >= a && y <= b]
